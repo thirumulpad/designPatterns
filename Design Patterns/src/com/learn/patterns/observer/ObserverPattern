@@ -1,0 +1,10 @@
+one to many dependency between objects so that when one object changes state, 
+all of the dependents are notified and updated automatically.
+
+interfaces for the subject and observer.
+
+concrete impl for subject and observer.
+
+subject - > add/remove observer, notify observer
+
+
