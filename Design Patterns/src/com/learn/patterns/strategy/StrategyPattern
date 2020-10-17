@@ -1,0 +1,6 @@
+The Strategy Pattern defines a family of algorithms, encapsulates each one and makes them interchangable.
+
+Strategy lets the algorithm vary independently from the clients that use it.
+
+each interface for behavior. Abstract class has all behaviors.
+Set method for each behavior helps us modify the behavior dynamically.
